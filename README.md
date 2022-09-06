@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zirnit
-- 👀 I’m interested in data analisys and logistics backend development
+- 👀 Work automation is the best. Data analysis is maybe second best.
 - 🌱 I’m currently learning Flask
 - 📫 Reach me by email at gaticaramirez.alejandro@gmail.com
 
