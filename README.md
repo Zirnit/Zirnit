@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zirnit
+- I'm a computer engineer student.
+- 🌱 I’m currently self-learning Flask.
 - 👀 Work automation is the best. Data analysis is maybe second best.
-- 🌱 I’m currently learning Flask
 - 📫 Reach me by email at gaticaramirez.alejandro@gmail.com
 
 <!---
